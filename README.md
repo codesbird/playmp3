@@ -85,8 +85,8 @@ YouTubeMP3 Converter is a Django project that allows users to convert YouTube vi
 1. Clone the repository:
 
 bash
-git clone https://github.com/your-username/youtubemp3.git
-cd youtubemp3
+git clone https://github.com/tenali786/playmp3.git
+cd playmp3
 Create a virtual environment and install dependencies:
 bash
 Copy code
