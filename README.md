@@ -9,7 +9,9 @@ YouTubeMP3 Converter is a Django project that allows users to convert YouTube vi
 - Add favorite songs to playlists.
 - Play entire YouTube playlists.
 - Save playlists for later use.
-
+- Download the playing song in one click
+- Search for new song on the app no need to get link from youtube for new song
+- 
 ## Installation
 
 <img width="450px" height="450px" src="https://github.com/Tenali786/playmp3/blob/main/static/files/icon1.png">
