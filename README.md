@@ -1,4 +1,22 @@
-<span style="color:blue"> This is an for playing mp3 songs and It is created using python libraries such pygmae, OS, PILLOW, AudioMetaData</span>
+# YouTubeMP3 Converter
 
-<h1 color="#1589F0"> YouTubeMp3 Player </h1>
+YouTubeMP3 Converter is a Django project that allows users to convert YouTube videos into MP3 format, reducing internet costs for music lovers. Users can also create and manage playlists, add their favorite songs, and play entire YouTube playlists. Playlists are saved for later use.
+
+## Features
+
+- Convert YouTube videos to MP3 format.
+- Create and manage playlists.
+- Add favorite songs to playlists.
+- Play entire YouTube playlists.
+- Save playlists for later use.
+
+## Installation
+
 <img width="450px" height="450px" src="https://github.com/Tenali786/playmp3/blob/main/static/files/icon1.png">
+
+
+```bash
+git clone https://github.com/your-username/youtubemp3.git
+cd youtubemp3
+```
+
