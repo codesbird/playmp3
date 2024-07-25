@@ -131,11 +131,5 @@ This project is licensed under the MIT License.
 Acknowledgements
 Django
 YouTube API
-[Your preferred MP3 conversion library]
+[pytube]
 Happy listening!
-
-vbnet
-Copy code
-
-Make sure to replace the placeholder image URLs with the actual paths or URL
-
